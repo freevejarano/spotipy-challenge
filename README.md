@@ -19,7 +19,7 @@ your_client_secret
 To run the program, simply open a terminal or command prompt and navigate to the directory containing search.py, then type:
 
 ```python
-python search.py
+python challenge.py
 ```
 
 You'll be prompted to enter a search query, such as a track name or artist name. The program will then search the Spotify API for tracks matching your query, and print the results to the console.
