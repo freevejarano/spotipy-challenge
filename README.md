@@ -2,7 +2,7 @@
 
 This is a simple Python program that uses the Spotify Web API to search for tracks by keyword and print the results to the console.
 
-**Check he original repository: https://github.com/spotipy-dev/spotipy**
+**Check the original repository: https://github.com/spotipy-dev/spotipy**
 
 
 ## Getting Started
